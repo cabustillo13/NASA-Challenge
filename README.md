@@ -7,6 +7,7 @@
 </p>
 
 # Files
+You can run this code in Python 2.7 and Python 3.x
 
 ```
 ___ Mapa
