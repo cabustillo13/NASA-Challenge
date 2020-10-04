@@ -146,7 +146,7 @@ for element in datos:
 print("Prediccion para KNN con K=1: ")    
 print(test.clasePeligro)
 
-# Algoritmo de ordenamiento de BuvvleSort-> lo elegi porque es bastante estable
+# Algoritmo de ordenamiento de BubbleSort-> lo elegi porque es bastante estable
 swap = True
 while (swap):
     swap = False
@@ -156,8 +156,8 @@ while (swap):
             datos[i] = datos[i-1]
             datos[i-1] = aux
             swap = True
-print("\nPredicciones para KNN con K=9: ")            
-k = 9
+print("\nPredicciones para KNN con K=5: ")            
+k = 5
 for i in range(k):
     print(datos[i].clasePeligro)
 
