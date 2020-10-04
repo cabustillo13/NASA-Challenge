@@ -62,3 +62,9 @@ Link: https://gn-idecor.mapascordoba.gob.ar/maps/295/view
 - **Wind speed:** 10m above gnd.
 
 Link: https://www.meteoblue.com/es/tiempo/webmap/beta/general-levalle_argentina_3855098#coords=5/-34.01/-63.92&map=windAnimation~coldwarm~auto~10%20m%20above%20gnd~none
+
+### NOTE: you can also use files in Open Nasa for our APIs.
+
+# License
+
+This project has License (MIT).
