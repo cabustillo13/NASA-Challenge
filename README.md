@@ -47,18 +47,18 @@ Link: https://www.bomberoscordoba.com.ar/regional/regional.php
 
 ### For Clasificacion Folder
 
-- Fire danger: It is classified in: extreme, high, medium and low degree.
+- **Fire danger:** It is classified in: extreme, high, medium and low degree.
 
 Link : https://www.argentina.gob.ar/ambiente/fuego/alertatemprana/indices
 
-- Soil moisture: Map of soil moisture estimates at 50cm depth, periodically updated in the last 7 days (SAOCOM data).
+- **Soil moisture:** Map of soil moisture estimates at 50cm depth, periodically updated in the last 7 days (SAOCOM data).
 
 Link: https://gn-idecor.mapascordoba.gob.ar/maps/87/view
 
-- Distance to Water Resources: Map of the essential data of "Portal de Información Hídrica de Córdoba (PIHC)"
+- **Distance to Water Resources:** Map of the essential data of "Portal de Información Hídrica de Córdoba (PIHC)"
 
 Link: https://gn-idecor.mapascordoba.gob.ar/maps/295/view
 
-- Wind speed: 10m above gnd.
+- **Wind speed:** 10m above gnd.
 
 Link: https://www.meteoblue.com/es/tiempo/webmap/beta/general-levalle_argentina_3855098#coords=5/-34.01/-63.92&map=windAnimation~coldwarm~auto~10%20m%20above%20gnd~none
