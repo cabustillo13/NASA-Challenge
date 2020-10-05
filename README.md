@@ -41,6 +41,8 @@ It's an API. Historical humidity data, distance to the nearest water source and 
  
  # Demo
  
+ **Below is the execution of two Python programs that consume our developed API. This helps us to show and validate our APIs.**
+ 
  - Toolkit 1
  
  ![Toolkit 1](https://github.com/cabustillo13/NASA-Challenge/blob/main/Demo/Toolkit1.gif)
