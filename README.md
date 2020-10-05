@@ -12,6 +12,8 @@ You can run this code in Python 2.7 and Python 3.x
 
 # Toolkit Files
 
+### Toolkit 1
+
 ```
 ___ Mapa
  |___ AEstrella.py            -> Pathfinder Algorithm
@@ -23,6 +25,8 @@ ___ Mapa
 It's an API. It contains a genetic algorithm that allows you to order the order in which the fire sources should be turned off. It uses a simulated annealing algorithm for fitness. Which evaluates the distance between points with a Pathfinder algorithm. 
 
 **Output:** Return an ordered list with which each source of fire must be extinguished.
+
+### Toolkit 2
 
 ```
 ___ Clasificacion
