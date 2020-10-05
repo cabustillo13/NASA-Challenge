@@ -35,6 +35,17 @@ It's an API. Historical humidity data, distance to the nearest water source and 
  
  **Output:** Determine degrees of fire (Extreme, high, medium and low).
  
+ # Demo
+ 
+ - Toolkit 1
+ 
+ ![Toolkit 1](https://github.com/cabustillo13/NASA-Challenge/blob/main/Demo/Toolkit1.gif)
+
+- Toolkit 2
+ 
+ ![Toolkit 2](https://github.com/cabustillo13/NASA-Challenge/blob/main/Demo/Toolkit2.gif)
+
+
  # Data and Resources
  
 ### For Mapa Folder
